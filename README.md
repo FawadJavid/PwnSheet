@@ -4,7 +4,7 @@
 
 **Interactive offensive security command reference — runs entirely in your browser**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-2563eb?style=for-the-badge&logo=github)](https://YOUR_USERNAME.github.io/pwnsheet)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-2563eb?style=for-the-badge&logo=github)](https://fawadjavid.github.io/pwnsheet.html)
 [![Authorized Use Only](https://img.shields.io/badge/⚠%20Authorized-Use%20Only-d97706?style=for-the-badge)](.)
 
 </div>
